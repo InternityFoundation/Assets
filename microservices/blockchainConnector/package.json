@@ -24,7 +24,7 @@
     "format-json": "^1.0.3",
     "json-format": "^1.0.1",
     "lodash": "^4.17.11",
-    "log4js": "^4.0.2",
+    "log4js": "^6.4.0",
     "rotating-file-stream": "^1.4.0",
     "seneca": "^3.8.0-rc3",
     "sha3": "^2.1.1",
